@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the dissertation thesis outline
+  students prepare as part of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 35e7ec8c-42c2-7400-aaf7-8f40899794f8
 ---
