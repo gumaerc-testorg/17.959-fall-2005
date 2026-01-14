@@ -60,7 +60,7 @@ Wilson, James Q. *Political Organizations*. New York, NY: Basic Books, 1975. ISB
 
 Perrow, Charles. *Normal Accidents: Living with High-Risk Technologies*. Princeton, NJ: Princeton University Press, 1999. ISBN: 9780691004129.
 
-{{% resource_link "a93b7fc6-de8b-480b-8bf5-6e36a10df404" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Drake, Alvin W., Stan N. Finkelstein, and Harvey M. Sapolsky. {{% resource_link "a93b7fc6-de8b-480b-8bf5-6e36a10df404" "*The American Blood Supply: Issues and Policies of Blood Donation*" %}}. Cambridge, MA: MIT Press, 1982. ISBN: 9780262040709. \[Red Cross chapter.\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262040709) Drake, Alvin W., Stan N. Finkelstein, and Harvey M. Sapolsky. [*The American Blood Supply: Issues and Policies of Blood Donation*](https://mitpress.mit.edu/9780262040709). Cambridge, MA: MIT Press, 1982. ISBN: 9780262040709. \[Red Cross chapter.\]
 
 Zald, Mayer N. *Organizational Change: the Political Economy of the YMCA*. Chicago, IL: University of Chicago Press, 1970. ISBN: 9780226978505.
 
